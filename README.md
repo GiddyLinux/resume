@@ -11,11 +11,6 @@ JavaScript to enable fading in of the boxes once they get in the viewport.
 Icons are from Fontawsome via CDN.
 
 
-## A screenshot
-
-On desktop
-
-<img src="desktop.gif" width=500>
 
 
 ## Author
